@@ -1,6 +1,6 @@
 package prob5;
 
-public class Marine {
+public class Marine extends LandUnits{
 	// 현재 위치
 	private int x;
 	private int y;
